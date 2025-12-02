@@ -1,7 +1,5 @@
 # Flight Delay Analytics with Apache Spark
 
----
-
 * **University of Macedonia** | **Department of Applied Informatics**
 * **Course:** Big Data
 * **Instructor:** Asimina Dimara
@@ -26,6 +24,8 @@ The analysis is based on a dataset containing **2,000 flight records**. The foll
 * `DEP_DELAY`: Departure delay (in minutes)
 * `ARR_DELAY`: Arrival delay (in minutes)
 * `CANCELLED`: Flight status (0 = Active, 1 = Cancelled)
+
+---
 
 ## 🛠️ Technology Stack
 * **Environment:** **Google Colab**
@@ -99,3 +99,5 @@ The project is structured into **three separate notebooks**, each focusing on a 
 > You do not need to manually upload files or install packages. The notebooks are configured to automatically:
 > * **Install Dependencies:** Automatically installs PySpark and imports necessary libraries.
 > * **Load Data:** Automatically fetches the dataset (`flights_2000.csv`) directly from the GitHub repository.
+
+---
