@@ -1,5 +1,7 @@
 # Flight Delay Analytics with Apache Spark
 
+---
+
 * **University of Macedonia** | **Department of Applied Informatics**
 * **Course:** Big Data
 * **Instructor:** Asimina Dimara
